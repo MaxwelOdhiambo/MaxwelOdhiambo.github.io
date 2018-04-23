@@ -4,13 +4,13 @@ Author: Maxwel Odhiambo
 ## Project Description
 This is my Portfolio as a beginner web developer.
 You will need any web browser i.e chrome, IE or Firefox mozilla. Below is a link to my Portfolio web page
-[**Here**](https://github.com/MaxwelOdhiambo/MaxwelOdhiambo.github.io)
+[**Here**](https://maxwelodhiambo.github.io/index.html)
 
 ### Project Set-Up
 ```
 git clone https://github.com/MaxwelOdhiambo/MaxwelOdhiambo.github.io.git
 ```
-open index.html
+
 
 #### MIT License
 Copyright (c) 2018 Maxwel Odhiambo
